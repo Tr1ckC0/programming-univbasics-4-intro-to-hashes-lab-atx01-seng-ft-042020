@@ -3,9 +3,7 @@ def new_hash
 end
 
 def my_hash
-  new_hash = {
-    :hairstyle => "Mohawk"
-  }
+  {:hairstyle => "Mohawk"}
 end
 
 def pioneer
